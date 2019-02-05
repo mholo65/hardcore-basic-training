@@ -12,6 +12,7 @@ module.exports = {
     "plugin:prettier/recommended"
   ],
   rules: {
+    "no-console": "off",
     "import/no-commonjs": 0
   },
   parser: "babel-eslint"
